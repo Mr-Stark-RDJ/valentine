@@ -14,8 +14,7 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
-      "Really sure?",
+      "Really No?",
       "Think again!",
       "Last chance!",
       "Surely not?",
