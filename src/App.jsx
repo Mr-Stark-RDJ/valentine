@@ -92,7 +92,7 @@ const Footer = () => {
       href="https://t.me/Mr_t0ny_stark"
       target="__blank"
     >
-      Made with{" "}
+      Made with{" "}by your Tony
       <span role="img" aria-label="heart">
         ❤️
       </span>
